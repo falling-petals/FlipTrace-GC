@@ -29,4 +29,6 @@ The study's default capacity is 64 MiB of cached CPU tensor payload. For the arc
 
 The code repository is [falling-petals/FlipTrace-GC](https://github.com/falling-petals/FlipTrace-GC).
 
-The release license is pending author confirmation.
+## License
+
+The FlipTrace-GC software and its associated documentation are licensed under the [MIT License](LICENSE). The dataset, pretrained weights, and external software are subject to their respective providers' terms. The included subset lists and archived evidence are described in the [evidence provenance notes](evidence/README.md).
